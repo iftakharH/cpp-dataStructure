@@ -1,3 +1,5 @@
+//This program is a simple inventory and sales management system. It allows users to add, delete, buy, and edit products in the inventory. The program uses a linked list to store product information and provides a user-friendly interface for managing the inventory. The receipt is printed at the end of the purchase process, showing the items bought and the total amount due.
+// The program is designed to be easy to use and provides clear instructions for the user. It also handles invalid inputs gracefully, ensuring a smooth user experience. The program is written in C++ and uses standard libraries for input/output operations.
 #include <iostream>
 #include <sstream>
 #include <cstdlib>
